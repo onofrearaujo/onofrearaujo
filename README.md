@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre mim
+## 👨‍💻 Onofre Araújo
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Federal do Cariri (UFCA)**.  
