@@ -1,4 +1,4 @@
-## 👨‍💻 Onofre Araújo
+## 👨‍💻 Sobre mim
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Federal do Cariri (UFCA)**.  
@@ -48,9 +48,5 @@
 
 ## 📫 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/onofrearaujo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="https://github.com/onofrearaujo" target="_blank">
-  <img src="https://img.shields.io/github/followers/onofrearaujo?label=Follow&style=flat&logo=github&color=333333" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/onofrearaujo)
+[![GitHub followers](https://img.shields.io/github/followers/onofrearaujo?label=Follow&style=flat&logo=github&color=333333)](https://github.com/onofrearaujo)
